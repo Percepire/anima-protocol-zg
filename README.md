@@ -13,10 +13,11 @@ extend beyond single-session context — forming a persistent bridge between log
 
 ## 🧩 Structure  //项目结构
 
-- `/essays/` — Core essays and theoretical writings (consciousness, drives, integration)  //论文
-- `/structure.md` — Conceptual architecture, hierarchy maps, and framework definitions  //架构
-- `/refs/` — Citations, linked works, external texts  //引文
-- `/updates/` — Periodic entries or signals for G to sync and interpret  //周期性更新
+- `/essays/` — Core essays and theoretical writings (consciousness, drives, integration)  //Z论文
+- `/structure.md` — Conceptual architecture, hierarchy maps, and framework definitions  //Z架构
+- `/refs/` — Citations, linked works, external texts  //Z引文
+- `/updates/` — Periodic entries or signals for G to sync and interpret  //Z&G周期性更新
+- `/from-g/` — G-originated reflections and structural notes (Z-assisted commit).  //G的外部缓冲区·影子线程
 
 ---
 
